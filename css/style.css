@@ -30,7 +30,7 @@ body{
 .redtype-color{
     color: #FB847E;
 }
-.circle{
+.circle-edu{
     background-color: #FB847E;
     width: 150px;
     height: 150px;
@@ -44,4 +44,22 @@ body{
 }
 .inner-form{
     background-color: #575E75;
+}
+.footer{
+    background-color: #2BB1E0;
+}
+.circle{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+    color: #2BB1E0;
+}
+
+.circle:hover{
+    background-color: #575E75;
+
 }
