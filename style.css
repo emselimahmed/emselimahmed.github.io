@@ -1,0 +1,103 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+/* <---------common style----------> */
+
+.flexible-area{
+    display: flex;  
+}
+.half-width{
+    width: 50%;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 25px;
+}
+.paragraph-text{
+    text-align: justify;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.orange-color{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 12px 30px;
+    border-radius: 10px;
+}
+link-button,a:hover{
+    background-image: linear-gradient(tomato, orange);
+    color: white;.
+}
+
+/* <---------Top style----------> */
+
+.top-section{
+    background-image: url(img/shape/top-banner.png);
+    background-repeat: no-repeat; 
+    background-size: 80%;
+    margin-bottom: 120px;
+}
+.top-text{
+    margin-left: 40px;
+    padding-top: 30px;    
+}
+.top-image{
+    width: 50%;
+    margin-top: 70px;
+    margin-left: 120px;
+}
+
+/* <--------Mid style-----------> */
+
+.mid-section{
+    background-image: url(img/shape/dream-bg.png);
+    background-repeat: no-repeat; 
+    background-size: 5%;
+    background-position: right;
+    margin-bottom: 120px;
+}
+.mid-text{
+    margin-right: 40px;
+}
+.mid-image{
+    width: 50%;
+    margin-left: 40px;
+    padding-top: 30px;    
+}
+
+/* <--------Exp style-----------> */
+
+
+.exp-text{
+    margin: 40px;
+    box-shadow: gray 10px 10px 40px;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 7px solid orange;
+}
+.exp-image{
+    background-image: url(img/shape/exp-bg.png);
+    background-repeat: no-repeat;
+    background-size: 4%;
+}
+.exp-all-element{
+    margin-left: 40px;
+}
+.footer-text{
+    color: gray;
+    text-align: center;
+    font-size: 18px;
+}
