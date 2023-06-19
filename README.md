@@ -1,4 +1,4 @@
-<-- ================ Portfolio of EM Selim Ahmed ================ -->
+<-- ====================== Portfolio of EM Selim Ahmed ====================== -->
 
 Hello, I'm EM Selim Ahmed, a passionate and dedicated full-stack web developer. With expertise in HTML, CSS, and Bootstrap, I specialize in creating visually appealing and responsive websites. I have a keen eye for design and a thorough understanding of user experience, ensuring that every project I undertake is not only visually stunning but also highly functional. I take pride in my ability to transform client requirements into fully functional web applications that exceed expectations.
 
